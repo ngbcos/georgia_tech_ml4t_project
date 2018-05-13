@@ -1,0 +1,894 @@
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 0.75  1.    0.7   0.  ]
+<OptimizeLearner.OptimizeLearner object at 0x10b969ad0>
+('Add Evidence took ', 12.130775928497314)
+Impact is 0
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.82419522259
+Sharpe Ratio of Benchmark: 0.156918406424
+Sharpe Ratio of Strategy Learner: 1.95068688996
+
+Cumulative Return of Manual Strategy: 0.8093
+Cumulative Return of Benchmark: 0.0123
+Cumulative Return of Strategy Learner : 0.9207
+
+Standard Deviation of Manual Strategy: 0.0107440192083
+Standard Deviation of Benchmark: 0.0170043662712
+Standard Deviation of Strategy Learner : 0.0110376782999
+
+Average Daily Return of Manual Strategy: 0.00123463282617
+Average Daily Return of Benchmark: 0.000168086978191
+Average Daily Return of Strategy Learner : 0.00135632893545
+
+Final Manual Strategy Value: 180930.0
+Final Benchmark Value: 101230.0
+Final Strategy Learner Value: 192070.0
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 0.75  1.    0.7   0.  ]
+<OptimizeLearner.OptimizeLearner object at 0x10c12a290>
+('Add Evidence took ', 12.312068939208984)
+Impact is 0.005
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.71114308391
+Sharpe Ratio of Benchmark: 0.1571908415
+Sharpe Ratio of Strategy Learner: 1.82632836858
+
+Cumulative Return of Manual Strategy: 0.7501985
+Cumulative Return of Benchmark: 0.0103765
+Cumulative Return of Strategy Learner : 0.8469255
+
+Standard Deviation of Manual Strategy: 0.0108529643387
+Standard Deviation of Benchmark: 0.0170394293305
+Standard Deviation of Strategy Learner : 0.0111212462726
+
+Average Daily Return of Manual Strategy: 0.00116986145488
+Average Daily Return of Benchmark: 0.000168726001316
+Average Daily Return of Strategy Learner : 0.00127947573131
+
+Final Manual Strategy Value: 175019.85
+Final Benchmark Value: 101037.65
+Final Strategy Learner Value: 184692.55
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 0.75  1.    0.7   0.  ]
+<OptimizeLearner.OptimizeLearner object at 0x10c15e690>
+('Add Evidence took ', 13.059587955474854)
+Impact is 0.01
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.59412064459
+Sharpe Ratio of Benchmark: 0.157464407345
+Sharpe Ratio of Strategy Learner: 1.69536386018
+
+Cumulative Return of Manual Strategy: 0.691097
+Cumulative Return of Benchmark: 0.008453
+Cumulative Return of Strategy Learner : 0.773151
+
+Standard Deviation of Manual Strategy: 0.0109847167721
+Standard Deviation of Benchmark: 0.0170746387727
+Standard Deviation of Strategy Learner : 0.0112341750857
+
+Average Daily Return of Manual Strategy: 0.00110308703292
+Average Daily Return of Benchmark: 0.000169368896195
+Average Daily Return of Strategy Learner : 0.00119978613508
+
+Final Manual Strategy Value: 169109.7
+Final Benchmark Value: 100845.3
+Final Strategy Learner Value: 177315.1
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 0.75  1.    0.7   0.  ]
+<OptimizeLearner.OptimizeLearner object at 0x1043ebf10>
+('Add Evidence took ', 13.465620040893555)
+Impact is 0.02
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.35023533527
+Sharpe Ratio of Benchmark: 0.158014959894
+Sharpe Ratio of Strategy Learner: 1.41604417421
+
+Cumulative Return of Manual Strategy: 0.572894
+Cumulative Return of Benchmark: 0.004606
+Cumulative Return of Strategy Learner : 0.625602
+
+Standard Deviation of Manual Strategy: 0.0113214035506
+Standard Deviation of Benchmark: 0.0171455005272
+Standard Deviation of Strategy Learner : 0.011557285028
+
+Average Daily Return of Manual Strategy: 0.000962962710249
+Average Daily Return of Benchmark: 0.000170666429535
+Average Daily Return of Strategy Learner : 0.00103093754284
+
+Final Manual Strategy Value: 157289.4
+Final Benchmark Value: 100460.6
+Final Strategy Learner Value: 162560.2
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 0.75  1.    0.7   0.  ]
+<OptimizeLearner.OptimizeLearner object at 0x10c319850>
+('Add Evidence took ', 12.591624975204468)
+Impact is 0.04
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 0.839163901051
+Sharpe Ratio of Benchmark: 0.159129951758
+Sharpe Ratio of Strategy Learner: 0.810455386232
+
+Cumulative Return of Manual Strategy: 0.336488
+Cumulative Return of Benchmark: -0.003088
+Cumulative Return of Strategy Learner : 0.330504
+
+Standard Deviation of Manual Strategy: 0.0123241713669
+Standard Deviation of Benchmark: 0.0172890220191
+Standard Deviation of Strategy Learner : 0.0126653377772
+
+Average Daily Return of Manual Strategy: 0.000651484745767
+Average Daily Return of Benchmark: 0.000173309387793
+Average Daily Return of Strategy Learner : 0.000646614767928
+
+Final Manual Strategy Value: 133648.8
+Final Benchmark Value: 99691.2
+Final Strategy Learner Value: 133050.4
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 0.75  1.    0.7   0.  ]
+<OptimizeLearner.OptimizeLearner object at 0x10bf63a10>
+('Add Evidence took ', 12.819439888000488)
+Impact is 0.06
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 0.326900132903
+Sharpe Ratio of Benchmark: 0.160263855801
+Sharpe Ratio of Strategy Learner: 0.190618569051
+
+Cumulative Return of Manual Strategy: 0.100082
+Cumulative Return of Benchmark: -0.010782
+Cumulative Return of Strategy Learner : 0.035406
+
+Standard Deviation of Manual Strategy: 0.013854766085
+Standard Deviation of Benchmark: 0.0174349925117
+Standard Deviation of Strategy Learner : 0.0145727872436
+
+Average Daily Return of Manual Strategy: 0.000285308049398
+Average Daily Return of Benchmark: 0.00017601800001
+Average Daily Return of Strategy Learner : 0.00017498771457
+
+Final Manual Strategy Value: 110008.2
+Final Benchmark Value: 98921.8
+Final Strategy Learner Value: 103540.6
+optimal variables are  [1, 1, 0.7, 0.5]
+<OptimizeLearner.OptimizeLearner object at 0x10f890ad0>
+('Add Evidence took ', 0.06690812110900879)
+Impact is 0
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.68481762694
+Sharpe Ratio of Benchmark: 0.156918406424
+Sharpe Ratio of Strategy Learner: 1.68481762694
+
+Cumulative Return of Manual Strategy: 0.8119
+Cumulative Return of Benchmark: 0.0123
+Cumulative Return of Strategy Learner : 0.8119
+
+Standard Deviation of Manual Strategy: 0.0117659003696
+Standard Deviation of Benchmark: 0.0170043662712
+Standard Deviation of Strategy Learner : 0.0117659003696
+
+Average Daily Return of Manual Strategy: 0.00124875659179
+Average Daily Return of Benchmark: 0.000168086978191
+Average Daily Return of Strategy Learner : 0.00124875659179
+
+Final Manual Strategy Value: 181190.0
+Final Benchmark Value: 101230.0
+Final Strategy Learner Value: 181190.0
+optimal variables are  [1, 1, 0.7, 0.5]
+<OptimizeLearner.OptimizeLearner object at 0x1114a6650>
+('Add Evidence took ', 0.0735788345336914)
+Impact is 0.005
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.52896346331
+Sharpe Ratio of Benchmark: 0.1571908415
+Sharpe Ratio of Strategy Learner: 1.52896346331
+
+Cumulative Return of Manual Strategy: 0.7206855
+Cumulative Return of Benchmark: 0.0103765
+Cumulative Return of Strategy Learner : 0.7206855
+
+Standard Deviation of Manual Strategy: 0.0119191527748
+Standard Deviation of Benchmark: 0.0170394293305
+Standard Deviation of Strategy Learner : 0.0119191527748
+
+Average Daily Return of Manual Strategy: 0.00114800088669
+Average Daily Return of Benchmark: 0.000168726001316
+Average Daily Return of Strategy Learner : 0.00114800088669
+
+Final Manual Strategy Value: 172068.55
+Final Benchmark Value: 101037.65
+Final Strategy Learner Value: 172068.55
+optimal variables are  [1, 1, 0.7, 0.5]
+<OptimizeLearner.OptimizeLearner object at 0x1105d3310>
+('Add Evidence took ', 0.06874299049377441)
+Impact is 0.01
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.36527365685
+Sharpe Ratio of Benchmark: 0.157464407345
+Sharpe Ratio of Strategy Learner: 1.36527365685
+
+Cumulative Return of Manual Strategy: 0.629471
+Cumulative Return of Benchmark: 0.008453
+Cumulative Return of Strategy Learner : 0.629471
+
+Standard Deviation of Manual Strategy: 0.0121184796564
+Standard Deviation of Benchmark: 0.0170746387727
+Standard Deviation of Strategy Learner : 0.0121184796564
+
+Average Daily Return of Manual Strategy: 0.00104223961934
+Average Daily Return of Benchmark: 0.000169368896195
+Average Daily Return of Strategy Learner : 0.00104223961934
+
+Final Manual Strategy Value: 162947.1
+Final Benchmark Value: 100845.3
+Final Strategy Learner Value: 162947.1
+optimal variables are  [1, 1, 0.7, 0.5]
+<OptimizeLearner.OptimizeLearner object at 0x110674110>
+('Add Evidence took ', 0.07709717750549316)
+Impact is 0.02
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.01857937987
+Sharpe Ratio of Benchmark: 0.158014959894
+Sharpe Ratio of Strategy Learner: 1.01857937987
+
+Cumulative Return of Manual Strategy: 0.447042
+Cumulative Return of Benchmark: 0.004606
+Cumulative Return of Strategy Learner : 0.447042
+
+Standard Deviation of Manual Strategy: 0.0126769124941
+Standard Deviation of Benchmark: 0.0171455005272
+Standard Deviation of Strategy Learner : 0.0126769124941
+
+Average Daily Return of Manual Strategy: 0.00081340736832
+Average Daily Return of Benchmark: 0.000170666429535
+Average Daily Return of Strategy Learner : 0.00081340736832
+
+Final Manual Strategy Value: 144704.2
+Final Benchmark Value: 100460.6
+Final Strategy Learner Value: 144704.2
+optimal variables are  [1, 1, 0.7, 0.5]
+<OptimizeLearner.OptimizeLearner object at 0x110f999d0>
+('Add Evidence took ', 0.07784509658813477)
+Impact is 0.04
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 0.285790606609
+Sharpe Ratio of Benchmark: 0.159129951758
+Sharpe Ratio of Strategy Learner: 0.285790606609
+
+Cumulative Return of Manual Strategy: 0.082184
+Cumulative Return of Benchmark: -0.003088
+Cumulative Return of Strategy Learner : 0.082184
+
+Standard Deviation of Manual Strategy: 0.0146356858757
+Standard Deviation of Benchmark: 0.0172890220191
+Standard Deviation of Strategy Learner : 0.0146356858757
+
+Average Daily Return of Manual Strategy: 0.000263487950604
+Average Daily Return of Benchmark: 0.000173309387793
+Average Daily Return of Strategy Learner : 0.000263487950604
+
+Final Manual Strategy Value: 108218.4
+Final Benchmark Value: 99691.2
+Final Strategy Learner Value: 108218.4
+optimal variables are  [1, 1, 0.7, 0.5]
+<OptimizeLearner.OptimizeLearner object at 0x110aced10>
+('Add Evidence took ', 0.07828211784362793)
+Impact is 0.06
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: -0.421474628513
+Sharpe Ratio of Benchmark: 0.160263855801
+Sharpe Ratio of Strategy Learner: -0.421474628513
+
+Cumulative Return of Manual Strategy: -0.282674
+Cumulative Return of Benchmark: -0.010782
+Cumulative Return of Strategy Learner : -0.282674
+
+Standard Deviation of Manual Strategy: 0.0184181825224
+Standard Deviation of Benchmark: 0.0174349925117
+Standard Deviation of Strategy Learner : 0.0184181825224
+
+Average Daily Return of Manual Strategy: -0.0004890102233
+Average Daily Return of Benchmark: 0.00017601800001
+Average Daily Return of Strategy Learner : -0.0004890102233
+
+Final Manual Strategy Value: 71732.6
+Final Benchmark Value: 98921.8
+Final Strategy Learner Value: 71732.6
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 1.   1.   0.7  0. ]
+<OptimizeLearner.OptimizeLearner object at 0x112c5fc10>
+('Add Evidence took ', 12.766204833984375)
+Impact is 0
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.68481762694
+Sharpe Ratio of Benchmark: 0.156918406424
+Sharpe Ratio of Strategy Learner: 1.68481762694
+
+Cumulative Return of Manual Strategy: 0.8119
+Cumulative Return of Benchmark: 0.0123
+Cumulative Return of Strategy Learner : 0.8119
+
+Standard Deviation of Manual Strategy: 0.0117659003696
+Standard Deviation of Benchmark: 0.0170043662712
+Standard Deviation of Strategy Learner : 0.0117659003696
+
+Average Daily Return of Manual Strategy: 0.00124875659179
+Average Daily Return of Benchmark: 0.000168086978191
+Average Daily Return of Strategy Learner : 0.00124875659179
+
+Final Manual Strategy Value: 181190.0
+Final Benchmark Value: 101230.0
+Final Strategy Learner Value: 181190.0
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 1.   1.   0.7  0. ]
+<OptimizeLearner.OptimizeLearner object at 0x111e84390>
+('Add Evidence took ', 12.094507932662964)
+Impact is 0.005
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.52896346331
+Sharpe Ratio of Benchmark: 0.1571908415
+Sharpe Ratio of Strategy Learner: 1.52896346331
+
+Cumulative Return of Manual Strategy: 0.7206855
+Cumulative Return of Benchmark: 0.0103765
+Cumulative Return of Strategy Learner : 0.7206855
+
+Standard Deviation of Manual Strategy: 0.0119191527748
+Standard Deviation of Benchmark: 0.0170394293305
+Standard Deviation of Strategy Learner : 0.0119191527748
+
+Average Daily Return of Manual Strategy: 0.00114800088669
+Average Daily Return of Benchmark: 0.000168726001316
+Average Daily Return of Strategy Learner : 0.00114800088669
+
+Final Manual Strategy Value: 172068.55
+Final Benchmark Value: 101037.65
+Final Strategy Learner Value: 172068.55
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 1.   1.   0.7  0. ]
+<OptimizeLearner.OptimizeLearner object at 0x112f1f250>
+('Add Evidence took ', 12.430622100830078)
+Impact is 0.01
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.36527365685
+Sharpe Ratio of Benchmark: 0.157464407345
+Sharpe Ratio of Strategy Learner: 1.36527365685
+
+Cumulative Return of Manual Strategy: 0.629471
+Cumulative Return of Benchmark: 0.008453
+Cumulative Return of Strategy Learner : 0.629471
+
+Standard Deviation of Manual Strategy: 0.0121184796564
+Standard Deviation of Benchmark: 0.0170746387727
+Standard Deviation of Strategy Learner : 0.0121184796564
+
+Average Daily Return of Manual Strategy: 0.00104223961934
+Average Daily Return of Benchmark: 0.000169368896195
+Average Daily Return of Strategy Learner : 0.00104223961934
+
+Final Manual Strategy Value: 162947.1
+Final Benchmark Value: 100845.3
+Final Strategy Learner Value: 162947.1
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 1.   1.   0.7  0. ]
+<OptimizeLearner.OptimizeLearner object at 0x112d8ff90>
+('Add Evidence took ', 13.025126934051514)
+Impact is 0.02
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 1.01857937987
+Sharpe Ratio of Benchmark: 0.158014959894
+Sharpe Ratio of Strategy Learner: 1.01857937987
+
+Cumulative Return of Manual Strategy: 0.447042
+Cumulative Return of Benchmark: 0.004606
+Cumulative Return of Strategy Learner : 0.447042
+
+Standard Deviation of Manual Strategy: 0.0126769124941
+Standard Deviation of Benchmark: 0.0171455005272
+Standard Deviation of Strategy Learner : 0.0126769124941
+
+Average Daily Return of Manual Strategy: 0.00081340736832
+Average Daily Return of Benchmark: 0.000170666429535
+Average Daily Return of Strategy Learner : 0.00081340736832
+
+Final Manual Strategy Value: 144704.2
+Final Benchmark Value: 100460.6
+Final Strategy Learner Value: 144704.2
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 1.   1.   0.7  0. ]
+<OptimizeLearner.OptimizeLearner object at 0x112cd3810>
+('Add Evidence took ', 13.433718919754028)
+Impact is 0.04
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: 0.285790606609
+Sharpe Ratio of Benchmark: 0.159129951758
+Sharpe Ratio of Strategy Learner: 0.285790606609
+
+Cumulative Return of Manual Strategy: 0.082184
+Cumulative Return of Benchmark: -0.003088
+Cumulative Return of Strategy Learner : 0.082184
+
+Standard Deviation of Manual Strategy: 0.0146356858757
+Standard Deviation of Benchmark: 0.0172890220191
+Standard Deviation of Strategy Learner : 0.0146356858757
+
+Average Daily Return of Manual Strategy: 0.000263487950604
+Average Daily Return of Benchmark: 0.000173309387793
+Average Daily Return of Strategy Learner : 0.000263487950604
+
+Final Manual Strategy Value: 108218.4
+Final Benchmark Value: 99691.2
+Final Strategy Learner Value: 108218.4
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.  ]
+[ 0.75  0.    0.7   0.5 ]
+[ 0.75  0.    0.85  0.  ]
+[ 0.75  0.    0.85  0.5 ]
+[ 0.75  0.    1.    0.  ]
+[ 0.75  0.    1.    0.5 ]
+[ 0.75  1.    0.7   0.  ]
+[ 0.75  1.    0.7   0.5 ]
+[ 0.75  1.    0.85  0.  ]
+[ 0.75  1.    0.85  0.5 ]
+[ 0.75  1.    1.    0.  ]
+[ 0.75  1.    1.    0.5 ]
+[ 1.   0.   0.7  0. ]
+[ 1.   0.   0.7  0.5]
+[ 1.    0.    0.85  0.  ]
+[ 1.    0.    0.85  0.5 ]
+[ 1.  0.  1.  0.]
+[ 1.   0.   1.   0.5]
+[ 1.   1.   0.7  0. ]
+[ 1.   1.   0.7  0.5]
+[ 1.    1.    0.85  0.  ]
+[ 1.    1.    0.85  0.5 ]
+[ 1.  1.  1.  0.]
+[ 1.   1.   1.   0.5]
+[ 1.25  0.    0.7   0.  ]
+[ 1.25  0.    0.7   0.5 ]
+[ 1.25  0.    0.85  0.  ]
+[ 1.25  0.    0.85  0.5 ]
+[ 1.25  0.    1.    0.  ]
+[ 1.25  0.    1.    0.5 ]
+[ 1.25  1.    0.7   0.  ]
+[ 1.25  1.    0.7   0.5 ]
+[ 1.25  1.    0.85  0.  ]
+[ 1.25  1.    0.85  0.5 ]
+[ 1.25  1.    1.    0.  ]
+[ 1.25  1.    1.    0.5 ]
+optimal variables are  [ 1.   1.   0.7  0. ]
+<OptimizeLearner.OptimizeLearner object at 0x11323d650>
+('Add Evidence took ', 12.350911140441895)
+Impact is 0.06
+Date Range: 2008-01-01 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual Strategy: -0.421474628513
+Sharpe Ratio of Benchmark: 0.160263855801
+Sharpe Ratio of Strategy Learner: -0.421474628513
+
+Cumulative Return of Manual Strategy: -0.282674
+Cumulative Return of Benchmark: -0.010782
+Cumulative Return of Strategy Learner : -0.282674
+
+Standard Deviation of Manual Strategy: 0.0184181825224
+Standard Deviation of Benchmark: 0.0174349925117
+Standard Deviation of Strategy Learner : 0.0184181825224
+
+Average Daily Return of Manual Strategy: -0.0004890102233
+Average Daily Return of Benchmark: 0.00017601800001
+Average Daily Return of Strategy Learner : -0.0004890102233
+
+Final Manual Strategy Value: 71732.6
+Final Benchmark Value: 98921.8
+Final Strategy Learner Value: 71732.6
