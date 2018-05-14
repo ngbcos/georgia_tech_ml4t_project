@@ -114,9 +114,18 @@ def optimize_portfolio(sd=dt.datetime(2008,1,1), ed=dt.datetime(2009,1,1), \
 
     return allocs, cr, adr, sddr, sr
 
-def print_sort_allocs(symbols, allocs):
+def print_sort_allocs(symbols, allocs, prices):
     alloc_dictionary = dict(zip(symbols, allocs))
-    print(sorted(alloc_dictionary.items(), key=lambda p:p[1], reverse=True)) #a simple stupid command to print the sorted dict
+    money_dictionary = {}
+
+    for stock in alloc_dictionary:
+        money_dictionary[stock] = alloc_dictionary[stock] * float(10000) / prices.ix[-1, stock] #this should tell us how many shares, approx we need
+
+    print(sorted(alloc_dictionary.items(), key=lambda p:p[1], reverse=True))
+    print(sorted(money_dictionary.items(), key=lambda p:p[1], reverse=True))
+
+
+    #print(sorted_dictionary) #a simple stupid command to print the sorted dict
 
 
 
@@ -129,9 +138,9 @@ def test_code():
     # Note that ALL of these values will be set to different values by
     # the autograder!
 
-    start_date = dt.datetime(2016,05,12)
+    start_date = dt.datetime(2017,5,12)
     end_date = dt.datetime(2018,05,12)
-    symbols = fortune500.dividend_stocks + fortune500.tech_winners #['LVS','ETP','MSFT','IBM', 'DUK', 'KO', 'SDT', 'GOOG', 'AMZN', 'AIG']
+    symbols = fortune500.dividend_stocks + fortune500.tech_winners #fortune500.dividend_stocks + fortune500.tech_winners #['LVS','ETP','MSFT','IBM', 'DUK', 'KO', 'SDT', 'GOOG', 'AMZN', 'AIG']
     #fortune500.fortune_500
     #['LVS','ETP','MSFT','IBM', 'DUK', 'KO', 'SDT']
 
@@ -150,7 +159,15 @@ def test_code():
     print "Average Daily Return:", adr
     print "Cumulative Return:", cr
 
-    print_sort_allocs(symbols, allocations)
+
+    #this is hacky code but whatever
+
+    dates = pd.date_range(start_date, end_date)
+    prices_all = get_data(symbols, dates)  # automatically adds SPY
+    prices = prices_all[symbols]  # only portfolio symbols
+
+
+    print_sort_allocs(symbols, allocations, prices)
 
 if __name__ == "__main__":
     # This code WILL NOT be called by the auto grader

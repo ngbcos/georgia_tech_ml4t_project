@@ -36,6 +36,8 @@ fortune_500 = ['ABT', 'ABBV', 'ACN', 'ACE', 'ADBE', 'ADT', 'AAP', 'AES', 'AET', 
 dividend_stocks = ['MMM', 'AFL', 'ABBV', 'ABT', 'APD', 'AOS', 'ADM', 'T', 'ADP', 'BDX', 'CAH', 'CVX', 'CINF', 'CTAS',
                    'CLX', 'KO', 'CL', 'ED', 'DOV', 'ECL', 'EMR', 'XOM', 'FRT', 'BEN', 'GD', 'GPC', 'GWW', 'HRL', 'ITW',
                    'JNJ', 'KMB', 'LEG', 'LOW', 'MKC', 'MCD', 'MDT', 'NUE', 'PEP', 'PNR', 'PX', 'PG', 'ROP',
-                   'SPGI', 'SWK', 'SYY', 'TROW', 'TGT', 'VFC', 'WMT', 'WBA']
+                   'SPGI', 'SWK', 'SYY', 'TROW', 'TGT', 'VFC', 'WMT', 'WBA', 'LVS', 'DUK']
 
-tech_winners = ['MSFT', 'NVDA', 'ADBE', 'AAPL', 'AMZN', 'FB']
+tech_winners = ['MSFT', 'NVDA', 'ADBE', 'AAPL', 'FB']
+
+crypto = ['BCH-USD', 'BTC-USD', 'LTC-USD', 'ETH-USD']
