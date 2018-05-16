@@ -33,10 +33,12 @@ fortune_500 = ['ABT', 'ABBV', 'ACN', 'ACE', 'ADBE', 'ADT', 'AAP', 'AES', 'AET', 
               'WBA', 'DIS', 'WM', 'WAT', 'ANTM', 'WFC', 'WDC', 'WU', 'WY', 'WHR', 'WMB', 'WEC', 'WYN', 'WYNN',
               'XEL', 'XRX', 'XLNX', 'XL', 'XYL', 'YUM', 'ZBH', 'ZION', 'ZTS', 'SPY']
 
-dividend_stocks = ['MMM', 'AFL', 'ABBV', 'ABT', 'APD', 'AOS', 'ADM', 'T', 'ADP', 'BDX', 'CAH', 'CVX', 'CINF', 'CTAS',
+dividend_stocks = ['MMM', 'AFL', 'ABBV', 'ABT', 'APD', 'AOS', 'ADM', 'T', 'ADP', 'BDX', 'BF-B', 'CAH', 'CVX', 'CINF', 'CTAS',
                    'CLX', 'KO', 'CL', 'ED', 'DOV', 'ECL', 'EMR', 'XOM', 'FRT', 'BEN', 'GD', 'GPC', 'GWW', 'HRL', 'ITW',
-                   'JNJ', 'KMB', 'LEG', 'LOW', 'MKC', 'MCD', 'MDT', 'NUE', 'PEP', 'PNR', 'PX', 'PG', 'ROP',
-                   'SPGI', 'SWK', 'SYY', 'TROW', 'TGT', 'VFC', 'WMT', 'WBA', 'LVS', 'DUK']
+                   'JNJ', 'KMB', 'LEG', 'LOW', 'MKC', 'MCD', 'MDT', 'NUE', 'PPG', 'PEP', 'PNR', 'PX', 'PG', 'ROP',
+                   'SPGI', 'SHW', 'SWK', 'SYY', 'TROW', 'TGT', 'VFC', 'WMT', 'WBA'] #Dividend Aristocrats as of May 2018
+
+nicks_other_fav_dividend_stocks = ['LVS', 'DUK']
 
 tech_winners = ['MSFT', 'NVDA', 'ADBE', 'AAPL', 'FB']
 

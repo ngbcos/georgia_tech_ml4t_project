@@ -138,9 +138,9 @@ def test_code():
     # Note that ALL of these values will be set to different values by
     # the autograder!
 
-    start_date = dt.datetime(2017,5,12)
-    end_date = dt.datetime(2018,05,12)
-    symbols = fortune500.dividend_stocks + fortune500.tech_winners #fortune500.dividend_stocks + fortune500.tech_winners #['LVS','ETP','MSFT','IBM', 'DUK', 'KO', 'SDT', 'GOOG', 'AMZN', 'AIG']
+    start_date = dt.datetime(2016,5,15)
+    end_date = dt.datetime(2018,05,15)
+    symbols = fortune500.dividend_stocks + fortune500.tech_winners + fortune500.nicks_other_fav_dividend_stocks #fortune500.dividend_stocks + fortune500.tech_winners #['LVS','ETP','MSFT','IBM', 'DUK', 'KO', 'SDT', 'GOOG', 'AMZN', 'AIG']
     #fortune500.fortune_500
     #['LVS','ETP','MSFT','IBM', 'DUK', 'KO', 'SDT']
 
