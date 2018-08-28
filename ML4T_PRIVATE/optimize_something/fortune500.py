@@ -38,7 +38,9 @@ dividend_stocks = ['MMM', 'AFL', 'ABBV', 'ABT', 'APD', 'AOS', 'ADM', 'T', 'ADP',
                    'JNJ', 'KMB', 'LEG', 'LOW', 'MKC', 'MCD', 'MDT', 'NUE', 'PPG', 'PEP', 'PNR', 'PX', 'PG', 'ROP',
                    'SPGI', 'SHW', 'SWK', 'SYY', 'TROW', 'TGT', 'VFC', 'WMT', 'WBA'] #Dividend Aristocrats as of May 2018
 
-nicks_other_fav_dividend_stocks = ['LVS', 'DUK']
+nicks_other_fav_dividend_stocks = ['LVS', 'DUK', 'BRK-B']
+
+SPY = ['SPY']
 
 tech_winners = ['MSFT', 'NVDA', 'ADBE', 'AAPL', 'FB']
 

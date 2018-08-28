@@ -1,0 +1,5 @@
+Run optimization.py like so: 
+
+PYTHONPATH=../:. python optimization.py
+
+stockdownloader_standalone.py helps download the stock data. 

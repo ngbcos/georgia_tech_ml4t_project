@@ -86,7 +86,7 @@ def optimize_portfolio(sd=dt.datetime(2008,1,1), ed=dt.datetime(2009,1,1), \
     allocs = np.zeros(len(syms))
     allocs.fill(1/float(len(syms))) #initial guess is an even distribution
 
-    minimize_this_function(allocs, prices)
+    #minimize_this_function(allocs, prices)
 
     #run code for optimization
     bnds = tuple((0,1) for stock in allocs)
@@ -119,7 +119,7 @@ def print_sort_allocs(symbols, allocs, prices):
     money_dictionary = {}
 
     for stock in alloc_dictionary:
-        money_dictionary[stock] = alloc_dictionary[stock] * float(10000) / prices.ix[-1, stock] #this should tell us how many shares, approx we need
+        money_dictionary[stock] = alloc_dictionary[stock] * float(10992) / prices.ix[-1, stock] #this should tell us how many shares, approx we need
 
     print(sorted(alloc_dictionary.items(), key=lambda p:p[1], reverse=True))
     print(sorted(money_dictionary.items(), key=lambda p:p[1], reverse=True))
@@ -138,8 +138,9 @@ def test_code():
     # Note that ALL of these values will be set to different values by
     # the autograder!
 
-    start_date = dt.datetime(2016,5,15)
-    end_date = dt.datetime(2018,05,15)
+    start_date = dt.datetime(2016,8,24)
+    end_date = dt.datetime(2018,8,24)
+    symbols = fortune500.nicks_other_fav_dividend_stocks
     symbols = fortune500.dividend_stocks + fortune500.tech_winners + fortune500.nicks_other_fav_dividend_stocks #fortune500.dividend_stocks + fortune500.tech_winners #['LVS','ETP','MSFT','IBM', 'DUK', 'KO', 'SDT', 'GOOG', 'AMZN', 'AIG']
     #fortune500.fortune_500
     #['LVS','ETP','MSFT','IBM', 'DUK', 'KO', 'SDT']
